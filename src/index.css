@@ -1,4 +1,4 @@
- @import url("https://api.openweathermap.org/data/2.5/weather?q=Tokyo&appid={b8496338c7b42f7821c2c832013f910a"});
+ @import url("https://api.openweathermap.org/data/2.5/weather?q=Tokyo&appid={883ffe190ea900cc076892997d3e36d9"});
 
 @tailwind base;
 @tailwind components;
